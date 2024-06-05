@@ -1,0 +1,16 @@
+         1157601 function calls in 5.517 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+  1000570    4.894    0.000    4.894    0.000 PE50_v1.py:7(is_prime)
+        1    0.288    0.288    0.491    0.491 PE50_v1.py:21(longest_sum_of_consecutive_primes)
+    78526    0.197    0.000    0.197    0.000 {built-in method builtins.sum}
+        1    0.134    0.134    5.025    5.025 PE50_v1.py:18(<listcomp>)
+    78499    0.004    0.000    0.004    0.000 {built-in method builtins.len}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
+        1    0.000    0.000    5.517    5.517 PE50_v1.py:36(main)
+        1    0.000    0.000    5.025    5.025 PE50_v1.py:17(generate_primes)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
