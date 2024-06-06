@@ -42,7 +42,7 @@ if __name__ == "__main__":
         main()
         pr.disable()
         s = io.StringIO()
-        ps = pstats.Stats(pr, stream=s).sort_stats("tottime")
+        ps = pstats.Stats(pr, stream=s).sort_stats("cumtime")
         ps.print_stats()
 
         with open("v1.txt", "w+") as f:

@@ -1,12 +1,12 @@
          5 function calls in 0.092 seconds
 
-   Ordered by: internal time
+   Ordered by: cumulative time
 
    ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.092    0.092 PE50_v3.py:9(main)
         1    0.088    0.088    0.088    0.088 {built-in method rs_extension.generate_primes}
-        1    0.003    0.003    0.003    0.003 {built-in method rs_extension.longest_sum_of_consecutive_primes}
+        1    0.004    0.004    0.004    0.004 {built-in method rs_extension.longest_sum_of_consecutive_primes}
         1    0.000    0.000    0.000    0.000 {built-in method builtins.print}
-        1    0.000    0.000    0.092    0.092 PE50_v3.py:12(main)
         1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
 
 
