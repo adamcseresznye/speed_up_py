@@ -1,7 +1,7 @@
 
 # Speed up your Python code 60x
 
-This repo contains the code examples described in the article [*"Speed up your Python code 60x".*](https://adamcseresznye.github.io/blog/posts/speed_up_py/speed_up_py.html)
+This repo contains the code examples described in the article [*"Speed up your Python code 60x".*](https://adamcseresznye.github.io/posts/speed_up_py/speed_up_py.html)
 
 
 ## Documentation
